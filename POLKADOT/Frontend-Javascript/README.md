@@ -1,7 +1,7 @@
 ## [LIVE WEBSITE](https://frontendpolka.web.app)
 #### ScreenShoot
 <p align=center>
-  <img src=./ss/pr.png>
+  <img src=./ss/sd.png>
 </p>
   
   
