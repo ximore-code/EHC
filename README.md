@@ -2,9 +2,9 @@
 
 ## TASK: 
 
-[polkadot onboarding](./POLKADOT)
+[Polkadot Onboarding](./POLKADOT)
 
-[avalanche](./AVALANCHE)
+[Avalanche](./AVALANCHE)
 
 
 
