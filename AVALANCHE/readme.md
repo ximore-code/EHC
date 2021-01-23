@@ -19,5 +19,5 @@ Team Member:
 > Zulfatul Fitriyah || gojim7907@gmail.com
 
 
-> Andri Febriyan || gembel.sej@gmail.com
+> Andri Febriyan || mang.droop@gmail.com
 
