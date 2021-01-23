@@ -1,0 +1,13 @@
+{
+  "CUSTOM_TYPES": {
+    "Address": "AccountId",
+    "LookupSource": "AccountId",
+    "SecretNote": {
+      "SecretOne": "Vec<u8>",
+      "SecretTwo": "Vec<u8>",
+      "SecretThree": "Vec<u8>",
+      "SecretFour": "Vec<u8>"
+    }
+  },
+  "PROVIDER_SOCKET": "ws://127.0.0.1:9944"
+}
