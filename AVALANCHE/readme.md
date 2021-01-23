@@ -13,7 +13,7 @@
 
 Team Name: XIMORE
 Team Member: 
-> Anisa Febi Sudarto || anissafebis.sudarto@gmail.com
+> Anisa Febi Sudarto || anissafebis74@gmail.com
 
 
 > Zulfatul Fitriyah || gojim7907@gmail.com
